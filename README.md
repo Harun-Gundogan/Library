@@ -1,2 +1,21 @@
+Kütüphane Otomasyon Sistemi, modern kütüphane yönetimi için kapsamlı bir çözümdür. Kitapları, ödünç alıp iade etmeyi, kullanıcıları yönetmeyi ve envanteri izlemeyi kolaylaştıran güçlü bir platform sunar. ASP.NET ve MS SQL teknolojilerini kullanarak geliştirilen bu sistem, kütüphane işlemlerini optimize ederken kullanıcı deneyimini artırır.
+
+Özellikler:
+Kapsamlı Kütüphane Yönetimi: Kitaplar, dergilerin kolayca yönetilmesi.
+Ödünç Alma ve İade İşlemleri: Kullanıcıların kitapları ödünç alması ve iade etmesi için kolay bir arayüz.
+Kullanıcı Yönetimi: Üyelik işlemleri, kullanıcı profillerinin yönetilmesi ve geçmişlerin izlenmesi.
+Envanter İzleme: Varolan kitapları izleme, stok durumunu güncelleme ve eksik materyalleri takip etme.
+Raporlama ve İstatistikler: Kullanım istatistikleri, en popüler kitaplar ve diğer analizler için raporlama özellikleri.
+
+Avantajlar:
+Kullanıcı Dostu Arayüz: Basit ve sezgisel kullanıcı arayüzü, personelin ve kullanıcıların işlerini kolaylaştırır.
+Güvenilirlik ve Güvenlik: MS SQL veritabanı ve ASP.NET platformuyla güvenilirlik sağlanırken, veri güvenliği de sağlanır.
+Esneklik: İhtiyaçlara uygun özelleştirme imkanıyla sistemi kendi kurumunuzun gereksinimlerine göre şekillendirin.
+
+Sistem Gereksinimleri
+Web Tarayıcısı Desteği: Chrome, Firefox, Safari, Edge gibi modern web tarayıcıları.
+İnternet Bağlantısı: Sistem, internet bağlantısı gerektirir.
+Kullanıcı Yetkilendirmesi: Farklı kullanıcı rolleri ve yetkilendirmeleri için bir yapılandırma gerektirir.
+
 m-n ilişkili veritabanı örneği.
 
