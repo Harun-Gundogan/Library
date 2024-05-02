@@ -1,3 +1,6 @@
+Proje Adı: Kütüphane Otomasyon Sistemi
+
+Açıklama:
 Kütüphane Otomasyon Sistemi, modern kütüphane yönetimi için kapsamlı bir çözümdür. Kitapları, ödünç alıp iade etmeyi, kullanıcıları yönetmeyi ve envanteri izlemeyi kolaylaştıran güçlü bir platform sunar. ASP.NET ve MS SQL teknolojilerini kullanarak geliştirilen bu sistem, kütüphane işlemlerini optimize ederken kullanıcı deneyimini artırır.
 
 Özellikler:
@@ -12,10 +15,13 @@ Kullanıcı Dostu Arayüz: Basit ve sezgisel kullanıcı arayüzü, personelin v
 Güvenilirlik ve Güvenlik: MS SQL veritabanı ve ASP.NET platformuyla güvenilirlik sağlanırken, veri güvenliği de sağlanır.
 Esneklik: İhtiyaçlara uygun özelleştirme imkanıyla sistemi kendi kurumunuzun gereksinimlerine göre şekillendirin.
 
-Sistem Gereksinimleri
+Sistem Gereksinimleri:
 Web Tarayıcısı Desteği: Chrome, Firefox, Safari, Edge gibi modern web tarayıcıları.
 İnternet Bağlantısı: Sistem, internet bağlantısı gerektirir.
 Kullanıcı Yetkilendirmesi: Farklı kullanıcı rolleri ve yetkilendirmeleri için bir yapılandırma gerektirir.
 
-m-n ilişkili veritabanı örneği.
+Örnek Veritabanı:
+Proje, m-n ilişkili veritabanı örneğiyle birlikte gelir, bu da veritabanı tasarımının karmaşıklığını anlamak için mükemmel bir fırsat sunar.
 
+Katılım:
+Projeyle ilgili geri bildirimlerinizi ve katkılarınızı GitHub üzerinden paylaşabilirsiniz. Pull request'lerinizle katkıda bulunmaktan mutluluk duyarız!
