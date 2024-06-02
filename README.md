@@ -6,28 +6,21 @@ Kütüphane Otomasyon Sistemi, modern kütüphane yönetimi için kapsamlı bir 
 
 Özellikler:
 
-Kapsamlı Kütüphane Yönetimi: Kitaplar, dergilerin kolayca yönetilmesi.
-Ödünç Alma ve İade İşlemleri: Kullanıcıların kitapları ödünç alması ve iade etmesi için kolay bir arayüz.
-Kullanıcı Yönetimi: Üyelik işlemleri, kullanıcı profillerinin yönetilmesi ve geçmişlerin izlenmesi.
-Envanter İzleme: Varolan kitapları izleme, stok durumunu güncelleme ve eksik materyalleri takip etme.
-Raporlama ve İstatistikler: Kullanım istatistikleri, en popüler kitaplar ve diğer analizler için raporlama özellikleri.
+Kapsamlı Kütüphane Yönetimi: 
+Kitaplar, dergilerin kolayca yönetilmesi.
 
-Avantajlar:
+Ödünç Alma ve İade İşlemleri: 
+Kullanıcıların kitapları ödünç alması ve iade etmesi için kolay bir arayüz.
 
-Kullanıcı Dostu Arayüz: Basit ve sezgisel kullanıcı arayüzü, personelin ve kullanıcıların işlerini kolaylaştırır.
-Güvenilirlik ve Güvenlik: MS SQL veritabanı ve ASP.NET platformuyla güvenilirlik sağlanırken, veri güvenliği de sağlanır.
-Esneklik: İhtiyaçlara uygun özelleştirme imkanıyla sistemi kendi kurumunuzun gereksinimlerine göre şekillendirin.
+Kullanıcı Yönetimi: 
+Üyelik işlemleri, kullanıcı profillerinin yönetilmesi ve geçmişlerin izlenmesi.
 
-Sistem Gereksinimleri:
+Envanter İzleme: 
+Varolan kitapları izleme, stok durumunu güncelleme ve eksik materyalleri takip etme.
 
-Web Tarayıcısı Desteği: Chrome, Firefox, Safari, Edge gibi modern web tarayıcıları.
-İnternet Bağlantısı: Sistem, internet bağlantısı gerektirir.
-Kullanıcı Yetkilendirmesi: Farklı kullanıcı rolleri ve yetkilendirmeleri için bir yapılandırma gerektirir.
+Raporlama ve İstatistikler: 
+Kullanım istatistikleri, en popüler kitaplar ve diğer analizler için raporlama özellikleri.
 
 Örnek Veritabanı:
 
-Proje, m-n ilişkili veritabanı örneğiyle birlikte gelir, bu da veritabanı tasarımının karmaşıklığını anlamak için mükemmel bir fırsat sunar.
-
-Katılım:
-
-Projeyle ilgili geri bildirimlerinizi ve katkılarınızı GitHub üzerinden paylaşabilirsiniz. Pull request'lerinizle katkıda bulunmaktan mutluluk duyarız!
+Proje, m-n (many-to-many) ilişkili veritabanı örneğiyle birlikte gelir, bu da veritabanı tasarımının karmaşıklığını anlamak için mükemmel bir fırsat sunar.
